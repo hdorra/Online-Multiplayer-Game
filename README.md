@@ -1,4 +1,4 @@
-# Online-Multiplayer-Game </br>
+# Online Multiplayer Game </br>
 
 This is a an example of a online, multiplayer, game leveraging Socket.io, and the Phaser framework. The intent is to illustrate how to connect multiple players online in an arcade-like experience. Users can connect and disconnect and there is no limit to the number of players. </br>
 
